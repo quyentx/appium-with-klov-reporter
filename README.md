@@ -5,8 +5,8 @@
 {
   "platformName": "Android",
   "deviceName": "Pixel2",
-  "appPackage": "com.truemoney.vnwallet",
-  "appActivity": ".splash.activity.activity.SplashActivity"
+  "appPackage": "com.wdiodemoapp",
+  "appActivity": ".MainActivity"
 }
 ```
 
